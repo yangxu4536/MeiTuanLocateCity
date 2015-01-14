@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="AllowBackup" severity="ignore" />
+    <issue id="ClickableViewAccessibility" severity="ignore" />
+    <issue id="ContentDescription" severity="ignore" />
+    <issue id="DefaultLocale" severity="ignore" />
+    <issue id="ExportedService" severity="ignore" />
+    <issue id="HardcodedText" severity="ignore" />
+    <issue id="InflateParams" severity="ignore" />
+    <issue id="OldTargetApi" severity="ignore" />
+    <issue id="RtlHardcoded" severity="ignore" />
+    <issue id="SdCardPath" severity="ignore" />
+    <issue id="SpUsage" severity="ignore" />
+    <issue id="ViewHolder" severity="ignore" />
+</lint>
